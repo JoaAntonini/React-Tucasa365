@@ -1,0 +1,21 @@
+
+#buttonDoc{
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    background-color:#17174F;
+    border: 9px outset #e1e3f3;      
+    text-align: center;
+    width: 80%;
+    font-size: 2rem;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 0.5rem;
+}
+#title{
+    font-size: 3rem;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
